@@ -1,4 +1,3 @@
-```css
 /* RAVINS — THE LEGACY | Midnight Gold */
 :root {
   --night: #090909;
@@ -37,6 +36,7 @@ button { font: inherit; }
 
 /* UPDATED WORDMARK */
 .wordmark {
+    display: block;
     font: 600 1.35rem/1.05 var(--serif);
     color: var(--champagne);
     letter-spacing: -.03em;
@@ -200,4 +200,3 @@ h1 em, h2 em { color: var(--champagne); font-weight: 400; }
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
   .reveal { opacity: 1; transform: none; }
 }
-```
